@@ -1,5 +1,4 @@
 # Apunts_UF1_1
-# Activitat UF1.1
 _Apunts fets per: Aitor Perez_
 #### ENTORNOS DE DESARROLLO
 Per començar, diferenciarem els tipus de software:
@@ -13,3 +12,8 @@ Per començar, diferenciarem els tipus de software:
     * Exemple: Suite ofimàtica, Navegador, Edició d'imatge.
     
     ![N|Solid](https://lh3.googleusercontent.com/proxy/hYXRXnHz-2xr60g3Xa3-iczqNRu0IF9RHvd_TIbQDvjGcNmN54B0Nd45JJ4fgF_dYP94Ib6KIf5VMKmEJ4k1Nm_hytXvGDIWC6nJMwjU5BO8YHzcHhTojw)
+3. **De desenvolupament:**
+    * Un software de desenvolupament podríem dir que és el conjunt d'utilitats i eines utilitzades per al desenvolupament, programació o creació de programes o aplicacions informàtiques.
+    * Exemple: Editors, compiladors, intèrprets.
+
+    ![N|Solid](https://okhosting.com/resources/uploads/2015/12/herramientas-de-desarrollo-de-software-1024x642@2x.png)
