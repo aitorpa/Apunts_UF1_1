@@ -1,6 +1,6 @@
 # Apunts_UF1_1
 _Apunts fets per: Aitor Perez_
-#### ENTORNOS DE DESARROLLO
+#### ENTORNS DE DESENVOLUPAMENT
 Per començar, diferenciarem els tipus de software:
 1. **De sistema:**
     * Es coneix com a software de sistema informàtic i que permeten interactuar amb el sistema operatiu, per donar suport a altres programes i garantir el control digital del maquinari.
@@ -17,3 +17,6 @@ Per començar, diferenciarem els tipus de software:
     * Exemple: Editors, compiladors, intèrprets.
 
     ![N|Solid](https://okhosting.com/resources/uploads/2015/12/herramientas-de-desarrollo-de-software-1024x642@2x.png)
+
+### CODIS
+Existeixen 3 diferents
