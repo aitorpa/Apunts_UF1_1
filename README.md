@@ -18,7 +18,7 @@ Per començar, diferenciarem els tipus de software:
 
     ![N|Solid](https://okhosting.com/resources/uploads/2015/12/herramientas-de-desarrollo-de-software-1024x642@2x.png)
 
-**HARDWARE-SOFTWARE:**
+Un poc après aixó, diferenciem entre **hardware** (Components físics de l'ordinador, és a dir, tot allò que pot ser tocat.) i **software** (Codi que estableix el conjunt d'instruccions que segueix el computador. Inclou els programes i els sistemes operatius que no es poden tocar.), però aquestes dues parts, tenen una relació, la relació **"RELACIÓN HARDWARE-SOFTWARE":**
 * Disco duro : És el dispositiu físic on conectat a un ordinador (per exemple) pot guardar tot tipus d'arxius.
     ![N|Solid](https://www.faq-mac.com/wp-content/uploads/2012/01/hdd_256_35631_640.jpg)
 * Memoria RAM : És un component bàsic per a qualsevol dispositiu informàtic, es una peça encarregada de rebre instruccions i guardar els resultats, prácticament es on carrega les ordres que han d'executar els dispositius com el processador.
