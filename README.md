@@ -18,5 +18,12 @@ Per començar, diferenciarem els tipus de software:
 
     ![N|Solid](https://okhosting.com/resources/uploads/2015/12/herramientas-de-desarrollo-de-software-1024x642@2x.png)
 
-### CODIS
-Existeixen 3 diferents
+HARDWARE-SOFTWARE":**
+* Disco duro : És el dispositiu físic on conectat a un ordinador (per exemple) pot guardar tot tipus d'arxius.
+    ![N|Solid](https://www.faq-mac.com/wp-content/uploads/2012/01/hdd_256_35631_640.jpg)
+* Memoria RAM : És un component bàsic per a qualsevol dispositiu informàtic, es una peça encarregada de rebre instruccions i guardar els resultats, prácticament es on carrega les ordres que han d'executar els dispositius com el processador.
+    ![N|Solid](https://www.womovil.com/wp-content/uploads/2020/06/1001201914324111992-256x256.jpg)
+* CPU : És la part encarregada de processar totes les instruccions i dades de programari i de maquinari.
+    ![N|Solid](https://pngimg.com/uploads/cpu/cpu_PNG59.png)
+* E/S : Entrada i sortida és fàcil d'entendre, connectem els nostres perifèrics o dispositius d'entrada i mostra els resultats per pantalla. 
+    ![N|Solid](https://www.dimm.com.uy/imgs/productos/productos31_37149.jpg)
