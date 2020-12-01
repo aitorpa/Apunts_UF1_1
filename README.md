@@ -5,7 +5,9 @@ Para empezar, diferenciaremos los tipos de software:
 1. **De sistema:**
     * Se conoce como software de sistema informático y que permiten interactuar con el sistema operativo, para apoyar otros programas y garantizar el control digital del hardware.
     * Ejemplo: Sistemas Operativos, drivers.
-    ![N|Solid](https://cookie.hardwaresfera.com/uploads/2019/12/definicion-de-software-sistema-apple-linux-windows-android.jpg)https://www.condesi.pe/wp-content/uploads/2020/02/desarrollo-a-la-medida11.jpg
+    
+    ![N|Solid](https://cookie.hardwaresfera.com/uploads/2019/12/definicion-de-software-sistema-apple-linux-windows-android.jpg)
+    
     * Un software de desarrollo podríamos decir que es el conjunto de utilidades y herramientas utilizadas para el desarrollo, programación o creación de programas o aplicaciones informáticas.
     * Ejemplo: Editores, compiladores, intérpretes.
 
