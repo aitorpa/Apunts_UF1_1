@@ -1,29 +1,29 @@
 # Apunts_UF1_1
 _Apunts fets per: Aitor Perez_
-#### ENTORNS DE DESENVOLUPAMENT
-Per començar, diferenciarem els tipus de software:
+#### ENTORNOS DE DESARROLLO
+Para empezar, diferenciaremos los tipos de software:
 1. **De sistema:**
-    * Es coneix com a software de sistema informàtic i que permeten interactuar amb el sistema operatiu, per donar suport a altres programes i garantir el control digital del maquinari.
-    * Exemple: Sistemes Operatius, drivers.
-    
-    ![N|Solid](https://cookie.hardwaresfera.com/uploads/2019/12/definicion-de-software-sistema-apple-linux-windows-android.jpg)
-2. **D'aplicació:**
-    * S'entén per software d'aplicació a el conjunt dels programes informàtics generalment instal·lats en el sistema per l'usuari.
-    * Exemple: Suite ofimàtica, Navegador, Edició d'imatge.
-    
-    ![N|Solid](https://lh3.googleusercontent.com/proxy/hYXRXnHz-2xr60g3Xa3-iczqNRu0IF9RHvd_TIbQDvjGcNmN54B0Nd45JJ4fgF_dYP94Ib6KIf5VMKmEJ4k1Nm_hytXvGDIWC6nJMwjU5BO8YHzcHhTojw)
-3. **De desenvolupament:**
-    * Un software de desenvolupament podríem dir que és el conjunt d'utilitats i eines utilitzades per al desenvolupament, programació o creació de programes o aplicacions informàtiques.
-    * Exemple: Editors, compiladors, intèrprets.
+    * Se conoce como software de sistema informático y que permiten interactuar con el sistema operativo, para apoyar otros programas y garantizar el control digital del hardware.
+    * Ejemplo: Sistemas Operativos, drivers.
+    ![N|Solid](https://cookie.hardwaresfera.com/uploads/2019/12/definicion-de-software-sistema-apple-linux-windows-android.jpg)https://www.condesi.pe/wp-content/uploads/2020/02/desarrollo-a-la-medida11.jpg
+    * Un software de desarrollo podríamos decir que es el conjunto de utilidades y herramientas utilizadas para el desarrollo, programación o creación de programas o aplicaciones informáticas.
+    * Ejemplo: Editores, compiladores, intérpretes.
 
-    ![N|Solid](https://okhosting.com/resources/uploads/2015/12/herramientas-de-desarrollo-de-software-1024x642@2x.png)
-
-Un poc après aixó, diferenciem entre **hardware** (Components físics de l'ordinador, és a dir, tot allò que pot ser tocat.) i **software** (Codi que estableix el conjunt d'instruccions que segueix el computador. Inclou els programes i els sistemes operatius que no es poden tocar.), però aquestes dues parts, tenen una relació, la relació **"RELACIÓN HARDWARE-SOFTWARE":**
-* Disco duro : És el dispositiu físic on conectat a un ordinador (per exemple) pot guardar tot tipus d'arxius.
+    ![N|Solid](https://www.condesi.pe/wp-content/uploads/2020/02/desarrollo-a-la-medida11.jpg)
+    
+Un poco después de ello, diferenciamos entre **hardware** (Componentes físicos del ordenador, es decir, todo aquello que puede ser tocado.) Y **software** (Código que establece el conjunto de instrucciones que sigue el computador. Incluye los programas y los sistemas operativos que no se pueden tocar.), pero estas dos partes, tienen una relación, la relación **"RELACIÓN HARDWARE-SOFTWARE":**
+* Disco duro : Es el dispositivo físico donde conectado a un ordenador (por ejemplo) puede guardar todo tipo de archivos.
     ![N|Solid](https://www.faq-mac.com/wp-content/uploads/2012/01/hdd_256_35631_640.jpg)
-* Memoria RAM : És un component bàsic per a qualsevol dispositiu informàtic, es una peça encarregada de rebre instruccions i guardar els resultats, prácticament es on carrega les ordres que han d'executar els dispositius com el processador.
+* Memoria RAM : Es un componente básico para cualquier dispositivo informático, es una pieza encargada de recibir instrucciones y guardar los resultados, prácticamente se donde carga las órdenes que deben ejecutar los dispositivos como el procesador.
     ![N|Solid](https://www.womovil.com/wp-content/uploads/2020/06/1001201914324111992-256x256.jpg)
-* CPU : És la part encarregada de processar totes les instruccions i dades de programari i de maquinari.
+* CPU : Es la parte encargada de procesar todas las instrucciones y datos de software y de hardware.
     ![N|Solid](https://pngimg.com/uploads/cpu/cpu_PNG59.png)
-* E/S : Entrada i sortida és fàcil d'entendre, connectem els nostres perifèrics o dispositius d'entrada i mostra els resultats per pantalla. 
+* E/S : Entrada y salida es fácil de entender, conectamos nuestros periféricos o dispositivos de entrada y muestra los resultados por pantalla.
     ![N|Solid](https://www.dimm.com.uy/imgs/productos/productos31_37149.jpg)
+
+##### Tipos de codigos:
+Cuando hablamos de codigos informáticos se nos viene a la cabeza rápidamente el **código fuente**: ¿Qué es el código  fuente?, el código fuente es un conjunto de línes de texto que está escrito con lenguaje de programación.
+![N|Solid](https://www.ionos.es/digitalguide/fileadmin/DigitalGuide/Teaser/quellcode-t.jpg)
+Pero esto, un ordenador no lo entenderia, y tampoco podemos traducirselo nosotros, necesitamos un traductor decimal a binario, cómo es el código objeto, el código objeto es la **compilación** del código fuente.
+![N|Solid](https://sites.google.com/site/programacion4esotecnofelix/_/rsrc/1479122562824/home/codigos.jpg)
+Y como vemos, finalmente el **código binario**, es el código final que puede leer la máquina en binario.
