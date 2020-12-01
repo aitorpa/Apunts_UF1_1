@@ -9,6 +9,9 @@ Para empezar, diferenciaremos los tipos de software:
     ![N|Solid](https://cookie.hardwaresfera.com/uploads/2019/12/definicion-de-software-sistema-apple-linux-windows-android.jpg)
     
     * Un software de desarrollo podríamos decir que es el conjunto de utilidades y herramientas utilizadas para el desarrollo, programación o creación de programas o aplicaciones informáticas.
+    
+     ![N|Solid](https://tercergradoinfocca15.files.wordpress.com/2015/03/software-de-aplicacic3b3n.jpg)
+    
     * Ejemplo: Editores, compiladores, intérpretes.
 
     ![N|Solid](https://www.condesi.pe/wp-content/uploads/2020/02/desarrollo-a-la-medida11.jpg)
