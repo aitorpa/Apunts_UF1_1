@@ -1,6 +1,6 @@
 # Apunts_UF1_1
 _Apunts fets per: Aitor Perez_
-#### ENTORNOS DE DESARROLLO
+### ENTORNOS DE DESARROLLO
 Para empezar, diferenciaremos los tipos de software:
 1. **De sistema:**
     * Se conoce como software de sistema informático y que permiten interactuar con el sistema operativo, para apoyar otros programas y garantizar el control digital del hardware.
