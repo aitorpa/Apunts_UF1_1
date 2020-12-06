@@ -53,6 +53,6 @@ Para ello deberemos conocer la disciplina que hay detrás de un software. La **I
 - PRUEBAS: Se hacen pruebas con el prototipo y se buscan todos los posibles fallos e incorrecciones para perfeccionarlo.
 - MANTENIMIENTO: Una vez está listo y preparado, tiene que existir un mantenimiento adecuado para que no se quede obsoleto, como por ejemplo ir añadiendo funcionalidades nuevas, ir adaptándolo a los nuevos entornos, corregir defectos, etc.
 Gracias a estas fases seremos "recompensados" informáticamente hablando, con resultados beneficiosos para futuros proyectos de ingenierias de software, por ejemplo:
-- De la ingeniería de sistemas obtendremos las especificación del sistema.
-- Del análisi tendremos las especificaciones de requisitos del software.
-- Del diseño arquitectónico extraeremos un documento de arquitectura del software
+    - De la ingeniería de sistemas obtendremos las especificación del sistema.
+    - Del análisi tendremos las especificaciones de requisitos del software.
+    - Del diseño arquitectónico extraeremos un documento de arquitectura del software
