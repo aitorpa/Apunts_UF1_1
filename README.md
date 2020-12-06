@@ -43,3 +43,16 @@ Pero esto, un ordenador no lo entenderia, y tampoco podemos traducirselo nosotro
 ![N|Solid](https://sites.google.com/site/programacion4esotecnofelix/_/rsrc/1479122562824/home/codigos.jpg)
 
 Y como vemos, finalmente el **código binario**, es el código final que puede leer la máquina en binario.
+
+### Ciclo de vida del Software
+Una vez tenemos claro que tipo de software existen, que relaciones existen entre hardware - software y cuales son los principales códigos en la informática, vamos a meternos de lleno a otro tema, el ciclo de vida de un software.
+Para ello deberemos conocer la disciplina que hay detrás de un software. La **Ingeniería de Software** es una de las ramas de las ciencias de la computación que estudia la creación de software confiable y de calidad, basándose en métodos y técnicas de ingeniería. Hay diferentes definiciones, pero lo que está claro es que hay 5 diferentes fases para la **creación** de un software.
+- ANÁLISIS: Analización de lo que nos pide el cliente y especificación de los requisitos que debe cumplir.
+- DISEÑO: Se hacen esbozos hasta tener un software determinado y preparado para empezar a trabajar en él.
+- CODIFICACIÓN: Se escribe el código fuente de cada componente.
+- PRUEBAS: Se hacen pruebas con el prototipo y se buscan todos los posibles fallos e incorrecciones para perfeccionarlo.
+- MANTENIMIENTO: Una vez está listo y preparado, tiene que existir un mantenimiento adecuado para que no se quede obsoleto, como por ejemplo ir añadiendo funcionalidades nuevas, ir adaptándolo a los nuevos entornos, corregir defectos, etc.
+Gracias a estas fases seremos "recompensados" informáticamente hablando, con resultados beneficiosos para futuros proyectos de ingenierias de software, por ejemplo:
+- De la ingeniería de sistemas obtendremos las especificación del sistema.
+- Del análisi tendremos las especificaciones de requisitos del software.
+- Del diseño arquitectónico extraeremos un documento de arquitectura del software
