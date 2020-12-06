@@ -57,3 +57,33 @@ Gracias a estas fases seremos "recompensados" informáticamente hablando, con re
    - De la ingeniería de sistemas obtendremos las especificación del sistema.
    - Del análisi tendremos las especificaciones de requisitos del software.
    - Del diseño arquitectónico extraeremos un documento de arquitectura del software
+   - Del diseño detallado obtendremos las especificación de módulos y funciones.
+   - De la codificación sacaremos el código fuente.
+   - De las pruebas de unidades los módulos utilizables.
+   - De las pruebas de integración el sistema utilizable.
+   - De las pruebas del sistema la obtención del sistema aceptado.
+   - De la documentación la cocumentación técnica y de usuario.
+   . Y del mantenimiento, los informes de errores y control de cambios.
+![N|Solid](https://micarrerauniversitaria.com/wp-content/uploads/2018/02/ent-software-businessman-ts-100539050-primary.idge_.jpg)
+
+Existen ciertos modelos efectivos para crear un software:
+- **Modelo en cascada**: es el modelo mas antiguo, es un proceso de desarrollo secuencial, en el que el desarrollo de software se concibe como  un conjunto de etapas que  se ejecutan una tras otra. Se le denomina así por las posiciones que ocupan las diferentes fases que componen el proyecto, colocadas una encima de otra, y siguiendo un flujo de ejecución de arriba hacia abajo, como una cascada.
+
+![N|Solid](https://user.oc-static.com/upload/2017/07/11/14997883020913_Captura%20de%20pantalla%202017-07-11%20a%20las%2017.51.18.png)
+
+- **Modelo en V**: Es parecido al modelo en cascada, se describen las actividades y resultados que deben producirse durante el desarrollo del producto. El lado izquierdo de la V representa la descomposición de las necesidades, y la creación de las especificaciones del sistema. El lado derecho de la V representa la integración de las piezas y su verificación. V significa «Verificación y validación».
+
+![](https://lh3.googleusercontent.com/proxy/ynaHHH8LXdI40l__Y4wpDSBBJbb3-DyKXTszJObc89Y5oyqNxZT1xdM62RpmlKK1-_B9Njel1_ywGN8qJhTNJ8FpB9n9bDSpDxRXghTDIFQl-hxSD1gCpg9qHPg)
+
+- **Modelo basado en prototipos**: En un desarrollo iterativo e incremental el proyecto se planifica en diversos bloques temporales llamados iteraciones, las iteraciones se pueden entender como miniproyectos: en todas las iteraciones se repite un proceso de trabajo similar para proporcionar un resultado completo sobre producto final.
+![N|Solid](https:/ PHP, Javascript
+### Lenguajes de programación
+Una vez cerrado el ciclo de vida de los softwares, nos adentramos en los lenguajes de programación, primero hemos de tener el conocimiento de como se obtienen el código ejecutable, para ello, tenemos dos formas de extraer el código de binario, compilando o interpretando.
+- **Compilar**: _Significa traducir un código de programación a codigo ejecutable por la máquina._ C y C++ son ejemplos de compiladores.
+![N|Solid](https://yosoy.dev/wp-content/uploads/2017/03/compilador.png)
+
+- **Intrepretar**: _Es un programa informático que procesa el código fuente de un proyecto de software durante su tiempo de ejecución, es decir, mientras el software se está ejecutando, y actúa como una interfaz entre ese proyecto y el procesador._ PHP, Javascript son ejemplos de interpretes.
+
+![N|Solid](https://lh3.googleusercontent.com/duJNeaXScSgkPiUMEQ_JyFLNgsz4dmbH0xv0G6jAE-yt0rHzye1HXi931DJxCiMjhXPl5Uo6Wkegn5Q4-SHZ5lJFRlZp-4Knv8B9dj3oNVJeAFb-ZNseNGC8KVbgmMg-A-Pf_YAtD2eRuP4bqhr_8ao5dynqlmCfmcxRzloeqjBIYDiGFdJFwSGZXcLOXWiBpClyHJw69YG5R1BOiqqbHH7vbiOKOcmkQAqX4SN74hmkPlRq72HfOVKpmB2jW64S8YgsYsznioIktHDmYOJs2-j-e_ghMgevjJkZ6Qo6HjUVGJsT65lcLjLr5xxwp09ZdU-zejdBVW-KjC7bHF5ho0NaiwdWPh_DbsV_YHsuEUY-8G2SsM-a2K6iwPdq0zrfetZgyRh0zdKpbiXAxI7Ei3caB3fv6pIv-0x6B1pMAwtwELofY6jRYI9GSlpEdBEg7UgqPKVj3OF1qtjYzZ7gH34DIkb02oGEMgMGCXu8Wdyb5oI6lwcJDPLl81tjvgo0BCLeH42kD8da4QEGGl4d6NxP0G7Xi5ciu0orwE_6tXsHNTljPOcDYmQZ1rtlpnH6-rQy67JnLGLVOQ5NimC8qeo2ENzdUEkafzMm4ZVKAThHEw77rcuQ=w647-h393-no)
+
+- **Proceso de compilación/interpretación**: Se lleva a cabo en dos partes: análisis léxico (consiste en un programa que recibe como entrada el código fuente de otro programa (secuencia de caracteres) y produce una salida compuesta de tokens (componentes léxicos) o símbolos. Estos tokens sirven para una posterior etapa del proceso de traducción, siendo la entrada para el Análisis Sintáctico) y análisis sintáctico (Define la estructura del lenguaje). 
